@@ -9,7 +9,7 @@ Backend is developed in **Flask** and **kaggle Covid-19 world data**([Dataset li
 ## Technologies
 ![Keras](https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/x3gdrogoamvuvjemehbr)
 ![Python](https://www.freepngimg.com/thumb/python_logo/7-2-python-logo-free-download-png-thumb.png)
-![Flask](https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png =256x256)
+![Flask](https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png)
 ![sklearn](http://www.open-source-innovation-spring.org/media/images/scikit-learn-logo-notext.max-256x256.png)
 ![53js](https://i2.wp.com/o7services.com/o7/wp-content/uploads/2018/08/website-designing-300x150.png?resize=300%2C150)
 
